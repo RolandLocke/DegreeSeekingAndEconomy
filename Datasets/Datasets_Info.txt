@@ -1,0 +1,26 @@
+DATA Information:
+
+Applicants - Number of applications for admission from first-time, degree/certificate-seeking undergraduate students received by postsecondary institutions in the fall. Source:	nces.ed.gov 
+
+Admissions - Percent of first-time, degree/certificate-seeking applicants to postsecondary institutions who were granted admission to enroll in the fall Source:		nces.ed.gov
+
+https://nces.ed.gov/ipeds/TrendGenerator
+
+Note: Data is collected from Title IV (those eligilbe to participate in the Federal Financial aid program) institutions in the US that do not have an open admissions policy. Applicants may apply to multiple programs and duplicates are not taken into account from these sources. 
+
+
+GDP - Quarterly GDP data in billions of dollars Source: https://fred.stlouisfed.org/series/GDP
+
+Inflation - Yearly consumer price inflation data Source: https://fred.stlouisfed.org/series/FPCPITOTLZGUSA
+
+CONSUMER PRICE INDEX - Source: https://fred.stlouisfed.org/series/USACPALTT01CTGYM
+
+Note: All OECD data should be cited as follows: OECD, "Main Economic Indicators - complete database", Main Economic Indicators (database), https://dx.doi.org/10.1787/data-00052-en (Accessed on date) Copyright, 2016, OECD. Reprinted with permission
+
+CONSUMER CONFIDENCE INDEX - Source: https://www.oecd.org/
+
+Notes: OECD (2024), Consumer confidence index (CCI) (indicator). doi: 10.1787/46434d78-en (Accessed on 03 February 2024  
+
+EMPLOYMENT - Employment level in thousands for persons 16 years or older who are not in active duty in the Armed Forces nor inmates of insititutions Source: https://fred.stlouisfed.org/series/CE16OV
+
+UNEMPLOYMENT RATE - Source: https://fred.stlouisfed.org/series/UNRATE
