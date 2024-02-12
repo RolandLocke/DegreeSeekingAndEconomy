@@ -107,7 +107,7 @@ df6 = pd.read_csv("C:\\Users\\rolan\\IdeaProjects\\DegreeSeekingUndergraduateIsA
 # Unemployment rate
 df7 = pd.read_csv("C:\\Users\\rolan\\IdeaProjects\\DegreeSeekingUndergraduateIsAndEconomy\\Datasets\\UNRATE.csv", on_bad_lines='skip')
 
-#=======================================================================================================================
+#======================================================================================================================
 # create a dataframe to hold Admission and Application data
 
 #remove the first column
