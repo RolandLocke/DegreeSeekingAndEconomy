@@ -15,7 +15,7 @@ from sklearn.preprocessing import MinMaxScaler
 df1 = pd.read_csv("C:\\Users\\rolan\\IdeaProjects\\DegreeSeekingUndergraduateIsAndEconomy\\Economy_and_degree.csv")
 
 # ======================================================================================================================
-# First, generate numerous graphs that will visulize a relationship between the percent change in applicants and the
+# generate numerous graphs that will visualize a relationship between the percent change in applicants and the
 # different economic indicators.
 
 # create a list of column names to iterate over.
